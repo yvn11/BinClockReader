@@ -1,0 +1,8 @@
+BinClockReader
+--------------------------------
+
+A binary clocker reader in Qt
+
+This is a touch-screen app for ARM(S3C2410) board with Qtopia.
+
+scripts/mkarm is the shell script that shows the way to build it.
