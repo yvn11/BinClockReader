@@ -1,0 +1,4 @@
+make clean
+qmake -project
+qmake
+make 1> /dev/null

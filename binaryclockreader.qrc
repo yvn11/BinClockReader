@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+	<file>img/40x40/checkedBinary.png</file>
+	<file>img/40x40/normalBinary.png</file>
+    </qresource>
+</RCC>
